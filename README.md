@@ -28,8 +28,13 @@ The IPL data used in this analysis is sourced from [data.world](https://data.wor
 - **Team Performance After Winning the Toss**: Chennai Super Kings, Mumbai Indians (MI) and Kolkata Knight Riders (KKR) converted toss wins into match victories most effectively, with each securing over 25 wins, while teams like Punjab Kings (PBKS) and Gujarat Lions (GL) had fewer than 10 wins after winning the toss.
 ![image](https://github.com/user-attachments/assets/a1cbe4bb-9962-4f7f-886a-c528cc951834)
 
--**Most Frequent Dismissal Types**: Not Applicable accounted for the highest frequency of entries, likely due to non-dismissal events or missing data, followed by Caught dismissals, which made up over 10% of the recorded dismissals, and Bowled at about 5%.
+- **Most Frequent Dismissal Types**: Not Applicable accounted for the highest frequency of entries, likely due to non-dismissal events or missing data, followed by Caught dismissals, which made up over 10% of the recorded dismissals, and Bowled at about 5%.
 ![image](https://github.com/user-attachments/assets/048f6142-af03-4c1c-b726-d0fef1e3389c)
+
+- **Top 10 Batsmen's Impact on Winning Matches:** Rashid Khan leads the top 10 batsmen in average runs scored during winning matches, significantly outpacing others with over 6 runs per game. Shahid Afridi follows with just over 4 runs, while the remaining players, including An Ahmed and BA Bhatt, contribute around 3 to 4 runs on average in victories.
+
+![image](https://github.com/user-attachments/assets/11bca414-853f-4b13-b7f2-e15bcb4ef796)
+
 
 
 
